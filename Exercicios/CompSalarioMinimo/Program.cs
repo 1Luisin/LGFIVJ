@@ -2,7 +2,7 @@
 {
     private static void Main(string[] args)
     {
-     int SalarioMin = 1518;  
+     dynamic SalarioMin = 1518;  
      int SalarioUsuario;
     
     Console.WriteLine("Bem vindo ao programa\n");
