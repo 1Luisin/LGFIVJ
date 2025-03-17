@@ -14,10 +14,9 @@ internal class Program
     Console.WriteLine("Informe o total de tempo em segundos");
     Totalsegundos = Int32.Parse(Console.ReadLine());
 
-     Totalsegundos = Totalsegundos / 3600;
-     Conv_Horas = 
-
-
+     Conv_Horas = Totalsegundos / 3600;
+     Conv_Minutos = Totalsegundos % 60;
+     
    
 
     
