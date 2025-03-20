@@ -12,12 +12,9 @@
             }
             catch (DivideByZeroException ex)
             {
-                Console.WriteLine("Erro: Divisão por zero.");
+                Console.WriteLine("Erro: Divisão por zero." + ex.Message);
             }
-            catch (Exception ex)
-            {
-                Console.WriteLine($"Erro: {ex.Message}");
-            }
+           
             finally
             {
                 Console.WriteLine("Fim do programa.");

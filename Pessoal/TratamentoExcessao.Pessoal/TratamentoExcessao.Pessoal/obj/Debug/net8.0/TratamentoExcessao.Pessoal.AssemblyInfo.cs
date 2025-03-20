@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TratamentoExcessao.Pessoal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+093dc63e17de00235bbef120f773ea9eee6c08aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+227f404a3baf9202adfd2eef4570ac8d592ac975")]
 [assembly: System.Reflection.AssemblyProductAttribute("TratamentoExcessao.Pessoal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TratamentoExcessao.Pessoal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

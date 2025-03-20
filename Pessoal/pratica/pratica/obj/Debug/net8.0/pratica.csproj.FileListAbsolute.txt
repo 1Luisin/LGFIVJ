@@ -1,0 +1,15 @@
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\pratica\pratica\bin\Debug\net8.0\pratica.exe
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\pratica\pratica\bin\Debug\net8.0\pratica.deps.json
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\pratica\pratica\bin\Debug\net8.0\pratica.runtimeconfig.json
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\pratica\pratica\bin\Debug\net8.0\pratica.dll
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\pratica\pratica\bin\Debug\net8.0\pratica.pdb
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\pratica\pratica\obj\Debug\net8.0\pratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\pratica\pratica\obj\Debug\net8.0\pratica.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\pratica\pratica\obj\Debug\net8.0\pratica.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\pratica\pratica\obj\Debug\net8.0\pratica.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\pratica\pratica\obj\Debug\net8.0\pratica.sourcelink.json
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\pratica\pratica\obj\Debug\net8.0\pratica.dll
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\pratica\pratica\obj\Debug\net8.0\refint\pratica.dll
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\pratica\pratica\obj\Debug\net8.0\pratica.pdb
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\pratica\pratica\obj\Debug\net8.0\pratica.genruntimeconfig.cache
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\pratica\pratica\obj\Debug\net8.0\ref\pratica.dll
