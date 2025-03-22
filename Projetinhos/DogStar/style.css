@@ -1,0 +1,26 @@
+#tituloPrincipal
+{
+    text-align: center;
+}
+
+#header
+{
+
+    
+}
+
+#body
+{
+    background-color: rgb(209, 163, 102);
+    color:aliceblue;
+    text-align: center;
+}
+#DogText
+{ 
+    color: #ee5d5d; 
+}
+
+#StarText
+{
+    color:rgb(255, 255, 76);
+}
