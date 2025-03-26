@@ -8,8 +8,6 @@
 
         static void Main(string[] args)
         {
-
-
             bool appexit = false;
 
                 while (appexit!= true) // não é a variável que é condicionada com o "true" e sim o valor da variável
