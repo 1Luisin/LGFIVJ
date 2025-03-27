@@ -4,31 +4,50 @@
     {
         static void Main(string[] args)
         {
-            
-            
-            int primeironumero;
 
-            Console.WriteLine("Informe o primeiro numero");
+            int usernum1;
+            int usernum2;
+            char operacao;
 
-            char simbolooperacao;
+            Console.WriteLine("Informe o primeiro número: ");
+            usernum1 = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Informe o tipo de operação: +, -, * ou /");
+            Console.WriteLine("Informe o tipo de operação");
+            operacao = char.Parse(Console.ReadLine());
 
-            int segundonumero;
+            Console.WriteLine("Informe o segundo número: ");
+            usernum2 = int.Parse(Console.ReadLine());   
 
-            Console.WriteLine("Informe o segundo número");
-            
-            segundonumero = Convert.ToInt32(Console.ReadLine());
-            
-            primeironumero = Convert.ToInt32(Console.ReadLine());
-            
-            
-            
-            simbolooperacao = Convert.ToChar(Console.ReadLine());
+            if (operacao == '+')
+            {
+                Console.WriteLine($"{usernum1} + {usernum2}\nO resultado desse cálculo é: {usernum1 + usernum2}");
+                Console.ReadLine();
+            }
 
-            int operacao = primeironumero + simbolooperacao + segundonumero;
+            else if (operacao ==  '-') 
+            {
             
-            
+                Console.Write($"{usernum1} - {usernum2}\nO resultado desse cálculo é: {usernum1 - usernum2}");
+                Console.ReadLine();
+            }
+
+            else if (operacao == '*')
+            {
+                Console.WriteLine($"{usernum1} * {usernum2}\nO resultado desse cálculo é: {usernum1 * usernum2}");
+                Console.ReadLine();
+            }
+
+            else if (operacao == '/')
+            {
+                Console.WriteLine($"{usernum1} / {usernum2}\nO resultado desse cálculo é: {usernum1 / usernum2}");
+                Console.ReadLine();
+            }
+
+            else
+            { 
+                Console.WriteLine("Operação não reconhecida. Fechando programa. . .");
+                Console.ReadLine();
+            }
         }
     }
 }
