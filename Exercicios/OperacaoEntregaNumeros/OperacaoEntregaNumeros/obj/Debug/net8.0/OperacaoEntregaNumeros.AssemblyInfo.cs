@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OperacaoEntregaNumeros")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70fed1d2e6b6557a2468557806af08c451a66985")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b6a5854243670d8dd6f42a7bd8f526a0568d9cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("OperacaoEntregaNumeros")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OperacaoEntregaNumeros")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

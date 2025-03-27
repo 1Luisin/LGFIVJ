@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-
+            try {
             int usernum1;
             int usernum2;
             char operacao;
@@ -47,6 +47,16 @@
             { 
                 Console.WriteLine("Operação não reconhecida. Fechando programa. . .");
                 Console.ReadLine();
+            } 
+            
+            }
+
+            catch (System.FormatException) 
+            {
+
+                Console.WriteLine("Formato não aceito. Fechando programa. . .");
+                Console.ReadLine();
+
             }
         }
     }
