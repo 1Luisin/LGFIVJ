@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MediaPonderadaTurma")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+110a84638d2df43b83890da2a7df03da7c169c66")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b0bac4e9d2f122e85695aee05e29b802060d30a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MediaPonderadaTurma")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MediaPonderadaTurma")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
