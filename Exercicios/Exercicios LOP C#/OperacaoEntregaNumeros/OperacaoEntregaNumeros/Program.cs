@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             try {
+
             int usernum1;
             int usernum2;
             char operacao;
