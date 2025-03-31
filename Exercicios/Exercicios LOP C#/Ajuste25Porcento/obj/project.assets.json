@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guilh\\OneDrive\\Documentos\\Programação\\LGFIVJ\\Exercicios\\Ajuste25Porcento\\Ajuste25Porcento.csproj",
+      "projectUniqueName": "C:\\Users\\guilh\\OneDrive\\Documentos\\Programação\\LGFIVJ\\Exercicios\\Exercicios LOP C#\\Ajuste25Porcento\\Ajuste25Porcento.csproj",
       "projectName": "Ajuste25Porcento",
-      "projectPath": "C:\\Users\\guilh\\OneDrive\\Documentos\\Programação\\LGFIVJ\\Exercicios\\Ajuste25Porcento\\Ajuste25Porcento.csproj",
+      "projectPath": "C:\\Users\\guilh\\OneDrive\\Documentos\\Programação\\LGFIVJ\\Exercicios\\Exercicios LOP C#\\Ajuste25Porcento\\Ajuste25Porcento.csproj",
       "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guilh\\OneDrive\\Documentos\\Programação\\LGFIVJ\\Exercicios\\Ajuste25Porcento\\obj\\",
+      "outputPath": "C:\\Users\\guilh\\OneDrive\\Documentos\\Programação\\LGFIVJ\\Exercicios\\Exercicios LOP C#\\Ajuste25Porcento\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

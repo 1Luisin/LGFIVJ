@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VerificadorIdade")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b0bac4e9d2f122e85695aee05e29b802060d30a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b237e67c552e9417bf1325ed03a9b9ecdc4e00bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("VerificadorIdade")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VerificadorIdade")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
