@@ -1,1 +1,0 @@
-matéria anotada no caderno
