@@ -1,0 +1,5 @@
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\MaiorNum\MaiorNum\obj\Debug\net8.0\MaiorNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\MaiorNum\MaiorNum\obj\Debug\net8.0\MaiorNum.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\MaiorNum\MaiorNum\obj\Debug\net8.0\MaiorNum.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\MaiorNum\MaiorNum\obj\Debug\net8.0\MaiorNum.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\MaiorNum\MaiorNum\obj\Debug\net8.0\MaiorNum.sourcelink.json

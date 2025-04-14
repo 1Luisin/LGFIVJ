@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\guilh\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\LGFIVJ\\Exercicios\\OperacaoEntregaNumeros\\",
+  "WorkspaceRootPath": "C:\\Users\\guilh\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\LGFIVJ\\Exercicios\\Exercicios LOP C#\\OperacaoEntregaNumeros\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C24F630-956D-4821-BFE9-3AA7E2A6765C}|OperacaoEntregaNumeros\\OperacaoEntregaNumeros.csproj|c:\\users\\guilh\\onedrive\\documentos\\programa\u00E7\u00E3o\\lgfivj\\exercicios\\operacaoentreganumeros\\operacaoentreganumeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C24F630-956D-4821-BFE9-3AA7E2A6765C}|OperacaoEntregaNumeros\\OperacaoEntregaNumeros.csproj|solutionrelative:operacaoentreganumeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\guilh\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\LGFIVJ\\Exercicios\\Exercicios LOP C#\\OperacaoEntregaNumeros\\OperacaoEntregaNumeros\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OperacaoEntregaNumeros\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\LGFIVJ\\Exercicios\\OperacaoEntregaNumeros\\OperacaoEntregaNumeros\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\LGFIVJ\\Exercicios\\Exercicios LOP C#\\OperacaoEntregaNumeros\\OperacaoEntregaNumeros\\Program.cs",
               "RelativeDocumentMoniker": "OperacaoEntregaNumeros\\Program.cs",
-              "ToolTip": "C:\\Users\\guilh\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\LGFIVJ\\Exercicios\\OperacaoEntregaNumeros\\OperacaoEntregaNumeros\\Program.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\LGFIVJ\\Exercicios\\Exercicios LOP C#\\OperacaoEntregaNumeros\\OperacaoEntregaNumeros\\Program.cs",
               "RelativeToolTip": "OperacaoEntregaNumeros\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

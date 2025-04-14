@@ -16,7 +16,8 @@
                     Console.WriteLine(number); //retorno ao usuário
                 }
             
-             number++; // atualização
+             number++; // atualização 
+                //number ++ = incremento
 
             }            
 
