@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculadorEscolar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4df68565b5f5596fb5eab56f34b5ad1e6bb0dd0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97cf640ab9be4addfe21ff50795d61879314e268")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculadorEscolar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculadorEscolar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

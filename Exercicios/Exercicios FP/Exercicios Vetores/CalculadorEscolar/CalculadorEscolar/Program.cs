@@ -4,7 +4,6 @@ namespace CalculadorEscolar
 {
     internal class Program
     {
-
         static void Main(string[] args)
         {
             Console.WriteLine("Bem vindo ao Calculador Escolar! \nDigite o número de alunos que você deseja calcular a nota.");
@@ -21,12 +20,16 @@ namespace CalculadorEscolar
                 Nome[contador] = Console.ReadLine();
                 Console.WriteLine("Digite a nota do(a) " + Nome[contador]);
                 NotaAluno[contador] = Convert.ToInt32(Console.ReadLine());
-                SomaNotas = NotaAluno[contador];
+                    
+                    while (contador == TotalAluno)
+                    {
+                        Console.WriteLine("Nota do aluno {0}: {1}\n", Nome[contador], NotaAluno[TotalAluno]);
+                        Console.ReadLine();
+                    }
+            
             }
-            SomaNotas = 
-            media = / 
-            Console.WriteLine("Nota média da turma: {0}", media);
-            Console.ReadLine();
+
+            
         }
     }
 }
