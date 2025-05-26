@@ -29,3 +29,6 @@ VALUES ("Tayná", "XXX", "32984217318", "rec");
 
 INSERT INTO projetos (INDE_PROJ, END_PROJ, TEL_PROJ, STATUS_PROJ)
 VALUES ("Nathalia","Morro da Glória","32999053039","rec");
+
+SHOW TABLES;
+SHOW DATABASES;
