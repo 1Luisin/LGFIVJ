@@ -13,13 +13,12 @@ namespace Poo
         public string data;
         public string estudio;
 
-
-        public void Executar() 
+       static public void Executar() 
         {
-
-            Console.WriteLine("Rodando Filme: {0}", nome);
-            Console.WriteLine("Data do Filme: {0}", data);
-            Console.WriteLine("Estúdio do Filme: {0}", estudio);
+            Filme filme = new Filme();
+            Console.WriteLine("Rodando Filme: {0}", filme.nome);
+            Console.WriteLine("Data do Filme: {0}", filme.data);
+            Console.WriteLine("Estúdio do Filme: {0}", filme.estudio);
         
         }
     

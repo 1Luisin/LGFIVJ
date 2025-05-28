@@ -14,7 +14,7 @@
             filme.nome = "Ta dando onda";
             filme.data = "09/04/2006";
             filme.estudio = "Estudio Ghibli";
-            filme.Executar();
+            Filme.Executar();
             Console.ReadLine();
         }
     }
