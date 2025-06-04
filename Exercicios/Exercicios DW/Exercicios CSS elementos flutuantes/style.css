@@ -1,0 +1,17 @@
+#body{
+    background-color:rgb(245, 252, 251);
+}
+
+#rightcontent{
+    background-image: url(imgs\ad95944a-2dfd-4cb6-b4dd-86d064912f7c.jpg) ;
+    float: right;
+    
+}
+
+.noticia{
+    width: 280px;
+    padding:10px;
+    margin:10px;
+    float: left;
+    background-color: rgb(212, 212, 212);
+}
