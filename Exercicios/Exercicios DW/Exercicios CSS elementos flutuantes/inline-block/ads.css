@@ -17,9 +17,17 @@ p{
     width: 300px
 }
 
+.absolute{
+    position:absolute;
+    border:1px solid red;
+    top:0px;
+    right: 300px;
+    background-color: #FFF;
+}
+
 .relative{
 
-    border:1px solid red;
+    border:1px  solid red;
     position: relative;
     
 }
