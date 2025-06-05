@@ -14,7 +14,7 @@ h1{
 }
 
 p{
-    width: 300px
+    width: 300px;
 }
 
 .absolute{
@@ -26,8 +26,15 @@ p{
 }
 
 .relative{
-
     border:1px  solid red;
     position: relative;
-    
+}
+
+.fixed{
+
+    position:fixed;
+    border:1px  solid red;
+    top:0px;
+    left:0px;
+    background-color: #FFF; 
 }
