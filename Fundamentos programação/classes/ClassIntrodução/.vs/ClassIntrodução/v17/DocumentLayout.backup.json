@@ -22,12 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -62,7 +58,7 @@
               "RelativeDocumentMoniker": "ClassIntrodu\u00E7\u00E3o\\Program.cs",
               "ToolTip": "C:\\Users\\Luis\\Documents\\Programa\u00E7\u00E3o\\LGFIVJ\\Fundamentos programa\u00E7\u00E3o\\classes\\ClassIntrodu\u00E7\u00E3o\\ClassIntrodu\u00E7\u00E3o\\Program.cs",
               "RelativeToolTip": "ClassIntrodu\u00E7\u00E3o\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAswA8AAABlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T22:33:42.401Z",
               "EditorCaption": ""
