@@ -3,6 +3,7 @@
 
     public class Main {
     public static void main(String[] args) {
+
         //Tipos primitivos:
     
         System.out.println("OPA");
@@ -20,10 +21,14 @@
         long numero_aleatorio = 324235;
         System.out.print(numero_aleatorio + "Número Aleatório");
 
-         int numero_constante = 32;
+         byte numeropequeno = 1;
+         System.out.println(numeropequeno);
 
+         char uma_letra = 'a';
+         System.out.println(uma_letra);
 
-
+         float numero_decimal = 432.3f;
+         System.out.println(numero_decimal);
 
         }
     }
