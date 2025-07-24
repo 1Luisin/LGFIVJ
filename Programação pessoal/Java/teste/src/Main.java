@@ -4,7 +4,7 @@
     public class Main {
     public static void main(String[] args) {
         //Tipos primitivos:
-
+    
         System.out.println("OPA");
 
         String nome = "Luis";
