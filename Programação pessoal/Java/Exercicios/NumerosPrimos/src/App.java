@@ -16,7 +16,7 @@ public class App {
                 System.out.println("Digite qualquer número!");
                 int EntradaUsuario;
                 EntradaUsuario = leitura.nextInt();
-                    if ((EntradaUsuario / 2) != 0){
+                    if (EntradaUsuario % 2 == 0){
                         System.out.println("Número x");
                     }    
 
