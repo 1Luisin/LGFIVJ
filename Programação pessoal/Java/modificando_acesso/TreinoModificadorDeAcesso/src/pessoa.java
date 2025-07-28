@@ -4,7 +4,7 @@ public class Pessoa {
 
     public String nome;
     public int idade;
-    private float Cpf;
+    private int Cpf;
     private int codigo;
     private String localizacao;
 
@@ -24,7 +24,7 @@ public class Pessoa {
     
     public void RetornaDados(){
 
-        System.out.println("Confira as informações de :\n" + nome);
+        System.out.println("Confira as informações de : "+ nome + "\n");
         System.out.println("Nome: " + nome);
         System.out.println("Idade: " + idade);
         System.out.println("Cpf: " + Cpf);
