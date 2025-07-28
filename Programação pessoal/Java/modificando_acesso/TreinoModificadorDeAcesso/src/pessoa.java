@@ -5,14 +5,16 @@ public class Pessoa {
     private String nome;
     private int idade;
 
-    public void Acesso(){
+    public String Acesso(){
         Scanner Leitura = new Scanner(System.in);        
         
         System.out.println("Digite uma idade");
-         idade = Leitura.nextInt();
+         this.idade = Leitura.nextInt();
         
         System.out.println("Digite um nome");
-        nome= Leitura.next();
+        this.nome = Leitura.next();
+        
+        return idade + nome;
     }
     
     public void ExibirConsole(){
