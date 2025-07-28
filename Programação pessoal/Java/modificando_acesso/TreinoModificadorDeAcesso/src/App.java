@@ -4,9 +4,10 @@ public class App {
     public static void main(String[] args) throws Exception {        
         
         Pessoa Pessoaobj = new Pessoa();
+        System.out.println("Cadastro de usuário!\n");
         
-        Pessoaobj.Acesso();
-        Pessoaobj.ExibirConsole();
+        Pessoaobj.RecebeDados();
+        Pessoaobj.RetornaDados();
         
     }
 }

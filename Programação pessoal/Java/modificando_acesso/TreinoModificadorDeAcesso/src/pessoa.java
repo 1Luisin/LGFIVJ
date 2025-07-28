@@ -15,17 +15,20 @@ public class Pessoa {
          this.idade = Leitura.nextInt();
         System.out.println("Digite um nome");
          this.nome = Leitura.next();
-        
-        
+        System.out.println("Digite o número de seu Cpf (Sem pontuação e traço):");
+          this.Cpf = Leitura.nextInt();
+        System.out.println("Escreva sua localização");
+         this.localizacao = Leitura.next();
         return idade + nome;
     }
     
-    public void ExibirConsole(){
+    public void RetornaDados(){
 
-        System.out.println("Informações da pessoa:\n");
+        System.out.println("Confira as informações de :\n" + nome);
         System.out.println("Nome: " + nome);
         System.out.println("Idade: " + idade);
-    
+        System.out.println("Cpf: " + Cpf);
+        System.out.println("Localização: " + localizacao);
     }
     
     
