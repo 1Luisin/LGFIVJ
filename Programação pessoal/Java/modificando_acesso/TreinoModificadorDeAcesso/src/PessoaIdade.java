@@ -1,11 +1,24 @@
 import java.util.Scanner;
 
 public class PessoaIdade {
-
-    public static int VerificadorIdade(){
-        Scanner leitura = new Scanner(System.in);
-        Pessoa Pessoaobj = new Pessoa();
         
-        return Pessoaobj.idade;
-    }
+            
+        static int VerificadorIdade(){
+
+        Scanner Leitura = new Scanner(System.in);
+        Pessoa PessoaObj = new Pessoa();
+            
+            
+            PessoaObj.idade = Leitura.nextInt();
+                
+                if (PessoaObj.idade > 150){
+                System.out.println("Idade inválida! Insira uma idade válida.");
+                VerificadorIdade();
+            }
+                 else if(PessoaObj.idade < 0){
+                System.out.println("Idade inválida! Insira uma idade válida ");
+                VerificadorIdade();
+            }
+        return PessoaObj.idade;
+        }
 }
