@@ -2,17 +2,20 @@ import java.util.Scanner;
 
 public class Pessoa {
 
-    private String nome;
-    private int idade;
+    public String nome;
+    public int idade;
+    private float Cpf;
+    private int codigo;
+    private String localizacao;
 
-    public String Acesso(){
+    public String RecebeDados(){
         Scanner Leitura = new Scanner(System.in);        
         
         System.out.println("Digite uma idade");
          this.idade = Leitura.nextInt();
-        
         System.out.println("Digite um nome");
-        this.nome = Leitura.next();
+         this.nome = Leitura.next();
+        
         
         return idade + nome;
     }
