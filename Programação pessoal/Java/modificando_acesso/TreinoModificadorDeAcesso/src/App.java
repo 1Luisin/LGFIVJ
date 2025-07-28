@@ -1,17 +1,10 @@
 import java.util.Scanner;
 
 public class App {
-    public static void main(String[] args) throws Exception {
-        Scanner Leitura = new Scanner(System.in);        
+    public static void main(String[] args) throws Exception {        
         
         Pessoa Pessoaobj = new Pessoa();
-        System.out.println("Digite uma idade");
-        Pessoaobj.idade = Leitura.nextInt();
+        Pessoaobj.Acesso();
         
-        System.out.println("Digite um nome");
-        Pessoaobj.nome= Leitura.next();
-
-        
-    
     }
 }
