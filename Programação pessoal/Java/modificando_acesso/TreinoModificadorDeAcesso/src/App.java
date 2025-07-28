@@ -4,8 +4,10 @@ public class App {
     public static void main(String[] args) throws Exception {        
         
         Scanner Leitura = new Scanner(System.in);
-
-        boolean sair = true;
+        LimpaConsole ClearObj = new LimpaConsole();
+        
+        boolean sair = false;
+        
         while(sair != true){
         Pessoa Pessoaobj = new Pessoa();
         System.out.println("Cadastro de usuário!\n");
@@ -13,8 +15,8 @@ public class App {
                 
                 int opcaoUsuario = Leitura.nextInt();
                     switch (opcaoUsuario) {
-                        case 1:
-                            
+                      case 1:
+                      ClearObj.Limpador();
                       Pessoaobj.RecebeDados();
                       Pessoaobj.RetornaDados();
                      
@@ -22,8 +24,9 @@ public class App {
                          
                       case 2:
                         sair = true;
+                      break;
                         
-                        default:
+                      default:
                             System.out.println("Comando não encontrado!");
                             break;
                     }
