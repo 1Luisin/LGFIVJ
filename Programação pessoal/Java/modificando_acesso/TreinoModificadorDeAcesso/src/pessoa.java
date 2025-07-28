@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 import javax.sound.sampled.Port.Info;
 
 public class Pessoa {
@@ -33,7 +32,6 @@ public class Pessoa {
     
     public void RetornaDados(){
 
-            
             Scanner Leitura = new Scanner(System.in);
             ClearObj.Limpador();
             System.out.println("Confira as informações de : "+ nome + "\n");
@@ -51,11 +49,11 @@ public class Pessoa {
                         case 1: 
                             ClearObj.Limpador();
                             System.out.println("Cadastro finalizado!\n");
-                            InfoErrada = false;
+                            break;
                         
                         case 2: 
-                            InfoErrada = true; 
-                            RecebeDados();
+                            ClearObj.Limpador();
+                            break;
                         }
 
         }
