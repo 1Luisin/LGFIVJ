@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+import javax.sound.sampled.Port.Info;
+
 public class Pessoa {
     
     LimpaConsole ClearObj = new LimpaConsole();
@@ -16,7 +18,7 @@ public class Pessoa {
         
         Scanner Leitura = new Scanner(System.in);        
         
-        while(InfoErrada == true){
+        while(this.InfoErrada == true){
         System.out.println("Digite uma idade");
          this.idade = Leitura.nextInt();
         System.out.println("Digite um nome");
@@ -25,7 +27,7 @@ public class Pessoa {
           this.Cpf = Leitura.nextDouble();
         System.out.println("Escreva sua localização");
          this.localizacao = Leitura.next();
-        
+            InfoErrada = false;
         }
     }
     
@@ -49,10 +51,11 @@ public class Pessoa {
                         case 1: 
                             ClearObj.Limpador();
                             System.out.println("Cadastro finalizado!\n");
-                            InfoErrada = true;
+                            InfoErrada = false;
                         
                         case 2: 
-                            InfoErrada = false; 
+                            InfoErrada = true; 
+                            RecebeDados();
                         }
 
         }
