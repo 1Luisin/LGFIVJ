@@ -1,9 +1,9 @@
 import java.util.Scanner;
-import javax.sound.sampled.Port.Info;
 
 public class Pessoa {
     
     LimpaConsole ClearObj = new LimpaConsole();
+    PessoaIdade PessoaIdadeObj = new PessoaIdade();    
     
     public Boolean InfoErrada = true;
     
@@ -16,14 +16,24 @@ public class Pessoa {
     public void RecebeDados(){
         
         Scanner Leitura = new Scanner(System.in);        
-        
         while(this.InfoErrada == true){
-        System.out.println("Digite uma idade");
-         this.idade = Leitura.nextInt();
+        
         System.out.println("Digite um nome");
          this.nome = Leitura.next();
-        System.out.println("Digite o número de seu Cpf (Sem pontuação e traço):");
+        
+         System.out.println("Digite uma idade");
+         this.idade = Leitura.nextInt();
+                
+                if (this.idade > 150){
+                System.out.println("Idade inválida!");
+                }
+                 else if(this.idade< 0){
+                System.out.println("Idade inválida!");
+                }
+
+        System.out.println("Digite o número de seu cpf (Sem pontuação e traço):");
           this.Cpf = Leitura.nextDouble();
+        
         System.out.println("Escreva sua localização");
          this.localizacao = Leitura.next();
             InfoErrada = false;
