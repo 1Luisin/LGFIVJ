@@ -8,21 +8,21 @@ public class Pessoa {
     
     public String nome;
     public int idade;
-    private int Cpf;
-    private int codigo;
+    private double Cpf;
+    private double codigo;
     private String localizacao;
 
     public void RecebeDados(){
         
         Scanner Leitura = new Scanner(System.in);        
         
-        while(InfoErrada != true){
+        while(InfoErrada == true){
         System.out.println("Digite uma idade");
          this.idade = Leitura.nextInt();
         System.out.println("Digite um nome");
          this.nome = Leitura.next();
         System.out.println("Digite o número de seu Cpf (Sem pontuação e traço):");
-          this.Cpf = Leitura.nextInt();
+          this.Cpf = Leitura.nextDouble();
         System.out.println("Escreva sua localização");
          this.localizacao = Leitura.next();
         
