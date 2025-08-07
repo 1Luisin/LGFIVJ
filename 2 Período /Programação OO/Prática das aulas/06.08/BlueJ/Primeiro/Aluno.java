@@ -11,7 +11,7 @@ public class Aluno
             nota = nt;
         }
         
-        public boolean EstaAprovado(int nota){
+        public boolean EstaAprovado(){
         return (nota >= 7);
         }
 }
