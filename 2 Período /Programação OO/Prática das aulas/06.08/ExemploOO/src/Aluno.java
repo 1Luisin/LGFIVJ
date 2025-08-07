@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class Aluno {
     
     Scanner Leitura = new Scanner(System.in);
