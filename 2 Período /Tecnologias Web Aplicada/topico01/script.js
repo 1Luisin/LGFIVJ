@@ -1,8 +1,7 @@
-<script>
-    const nome = "huguinho";
-    console.log(nome);
+const nome = "huguinho";
+console.log(nome);
 
-    var int = 32;
-    console.log(int);
+var int = 32;
+console.log(int);
 
-</script>
+
